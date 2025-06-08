@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IIITS.Training.Web.props" />
+</Project>

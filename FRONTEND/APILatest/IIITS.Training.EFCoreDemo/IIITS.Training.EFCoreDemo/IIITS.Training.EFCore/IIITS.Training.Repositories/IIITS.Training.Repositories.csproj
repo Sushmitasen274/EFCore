@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.10" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="8.0.0" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="8.0.10" />
+    <PackageReference Include="Oracle.EntityFrameworkCore" Version="8.23.60" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IIITS.Training.DataEntities\IIITS.Training.DataEntities.csproj" />
+    <ProjectReference Include="..\IIITS.Training.RepoInterface\IIITS.Training.RepoInterface.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="IEMS.CoreInfrastructure.DatabaseExtension">
+      <HintPath>..\dependencies\IEMS.CoreInfrastructure.DatabaseExtension.dll</HintPath>
+    </Reference>
+    <Reference Include="IEMS.CoreInfrastructure.DependencyInjection">
+      <HintPath>..\dependencies\IEMS.CoreInfrastructure.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="IEMS.CoreInfrastructure.Extensions">
+      <HintPath>..\dependencies\IEMS.CoreInfrastructure.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="IEMS.CoreInfrastructure.HttpClient">
+      <HintPath>..\dependencies\IEMS.CoreInfrastructure.HttpClient.dll</HintPath>
+    </Reference>
+    <Reference Include="IIITS.JUNCTIONDB.DAL">
+      <HintPath>..\dependencies\IIITS.JUNCTIONDB.DAL.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

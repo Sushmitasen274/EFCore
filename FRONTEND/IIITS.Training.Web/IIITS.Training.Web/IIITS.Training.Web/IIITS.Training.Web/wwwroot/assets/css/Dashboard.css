@@ -1,0 +1,67 @@
+﻿@import url(https://fonts.googleapis.com/css?family=Raleway:100,300,400,700);
+
+
+
+
+
+.btn{
+    border-radius:0px!important
+}
+
+
+.blocks {
+    margin: 0 auto;
+}
+
+.block {
+    float: left;
+    margin-top: 20px;
+    position: relative;
+    background: #fff;
+    color: #fff;
+    width: 18.85%;
+    margin-right: 1%;
+    min-width: 270px;
+    height: 200px;
+    
+    text-align: center;
+    overflow: hidden;
+    -webkit-backface-visibility: hidden;
+    border: solid 1px #ccc;
+}
+
+.heading {
+    height: 34px;
+    position: relative;
+    font-size: 1.4em;
+    width: 100%;
+   /* background: rgba(255, 255, 255, 0.13);*/
+    padding: 2px 6px 7px 3px;
+    border-bottom: solid 1px;
+}
+
+.num {
+    position: relative;
+    font-size: 4.2em;
+    padding-top: 40px;
+}
+
+.green {
+    color: black;
+}
+
+.orange {
+    color: black;
+}
+
+.purple {
+    color: black;
+}
+
+.yellow {
+    color: black;
+}
+
+.blue {
+    color: black;
+}

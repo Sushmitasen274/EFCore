@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IIITS.Training.EFCore.API.props" />
+</Project>

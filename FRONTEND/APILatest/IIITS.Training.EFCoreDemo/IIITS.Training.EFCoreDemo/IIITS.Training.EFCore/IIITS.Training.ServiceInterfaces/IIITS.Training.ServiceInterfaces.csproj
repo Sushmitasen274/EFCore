@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IIITS.Training.DataEntities\IIITS.Training.DataEntities.csproj" />
+    <ProjectReference Include="..\IIITS.Training.RepoInterface\IIITS.Training.RepoInterface.csproj" />
+    <ProjectReference Include="..\IIITS.Training.Repositories\IIITS.Training.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>

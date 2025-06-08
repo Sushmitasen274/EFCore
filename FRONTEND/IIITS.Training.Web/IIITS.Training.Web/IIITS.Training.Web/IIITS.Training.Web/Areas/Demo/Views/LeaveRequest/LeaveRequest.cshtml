@@ -1,0 +1,141 @@
+﻿@model IIITS.Training.Web.Areas.Demo.Models.LeaveRequestMainModelEntity
+@{
+    ViewData["Title"] = "LeaveRequest";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<head>
+
+    <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
+</head>
+<style>
+    .btn-hover.color-2 {
+        background-color: lightpink;
+        /* Other styles as needed */
+    }
+
+
+</style>
+@using (Html.BeginForm())
+
+@* @using (Html.BeginForm(FormMethod.Post, new { enctype = "multipart/form-data", @class = "needs-validation", @novalidate = "" }))
+ *@ {
+ <div class="container-fluid">
+    <div class="page-title">
+        <div class="row">
+                <div class="col-md-12">
+                    <h3 style="text-align: center; font-weight: bold; color:purple;">
+                        Leave Request
+                    </h3>
+                </div>
+        </div>
+    </div>
+
+        <div class="row pink-row">
+    <div class="form-group col-md-3">
+        <label>Trans Id</label>
+                @Html.EditorFor(m => m.EmpId, new { htmlAttributes = new { @class = "form-control", id = "txttransId", @readonly = true, @autocomplete = "off" } })
+        <span class="text-danger" id="dspPvType"></span>
+    </div>
+    <div class="col-md-1"></div>
+    <div class="form-group col-md-3">
+        <label>Employee Code</label>
+        @Html.DropDownListFor(m => m.EmpCode, Model.lstEmpCode, new { @class = "form-control chosen-select", id = "ddlEmpCode" })
+        <span class="text-danger" id="dspPvType"></span>
+    </div>
+    <div class="col-md-1"></div>   
+    <div class="form-group col-md-3">
+        <label>Name</label>
+        @Html.DropDownListFor(m => m.EmpName, Model.lstEmpName, new { @class = "form-control chosen-select", id = "ddlEmpName" })
+        <span class="text-danger" id="dspPvType"></span>
+    </div>
+    <div class="col-md-1"></div>
+    <div class="form-group col-md-3">
+        <label>Designation</label>
+        @Html.DropDownListFor(m => m.EmpDesignation, Model.lstEmpDesignation, new { @class = "form-control chosen-select", id = "ddlEmpDesignation" })
+        <span class="text-danger" id="dspPvType"></span>
+    </div>        
+    <div class="col-md-1"></div>
+    <div class="form-group col-md-3">
+        <label>Type</label>
+        @Html.EditorFor(m => m.EmpLeaveType, new { htmlAttributes = new { @class = "form-control", id = "txtEmpLeaveType", @autocomplete = "off" } })
+        <span class="text-danger" id="dspPvType"></span>
+    </div>
+    <div class="col-md-1"></div>
+
+    <div class="form-group col-md-3">
+        <label>From Date</label>
+                @Html.EditorFor(m => m.FromDate, new { htmlAttributes = new { @class = "form-control", type = "date" ,id = "txtFromDate", @autocomplete = "off" } })
+ <span class="text-danger" id="dspPvType"></span>
+    </div>
+
+    <div class="col-md-1"></div>
+
+    <div class="form-group col-md-3">
+        <label>To Date</label>
+                @Html.EditorFor(m => m.ToDate, new { htmlAttributes = new { @class = "form-control", type = "date" ,id = "txtToDate", @autocomplete = "off" } })
+        <span class="text-danger" id="dspPvType"></span>
+    </div>
+
+    <div class="col-md-1"></div>
+
+    <div class="form-group col-md-3">
+        <label>From Session</label>
+        @Html.EditorFor(m => m.FromSession, new { htmlAttributes = new { @class = "form-control", id = "txtFromSession", @autocomplete = "off" } })
+        <span class="text-danger" id="dspPvType"></span>
+    </div>
+            <div class="col-md-1"></div>
+
+    <div class="form-group col-md-3">
+        <label>To Session</label>
+        @Html.EditorFor(m => m.ToSession, new { htmlAttributes = new { @class = "form-control", id = "txtToSession", @autocomplete = "off" } })
+        <span class="text-danger" id="dspPvType"></span>
+    </div>
+    <div class="col-md-1"></div>
+    <div class="form-group col-md-3">
+        <label>Total Days</label>
+        @Html.EditorFor(m => m.TotalDays, new { htmlAttributes = new { @class = "form-control", id = "txtTotalDays", @autocomplete = "off" } })
+        <span class="text-danger" id="dspPvType"></span>
+    </div>
+    <div class="col-md-1"></div>
+
+    <div class="form-group col-md-3">
+        <label>Description</label>
+        @Html.EditorFor(m => m.Description, new { htmlAttributes = new { @class = "form-control", id = "txtDescription", @autocomplete = "off" } })
+        <span class="text-danger" id="dspPvType"></span>
+    </div>
+        </div>
+        <div class="col-md-1"></div>
+    <div class="text-center">
+        <button type="submit" id="btnLeaveRequest" class="btn-hover color-2">Submit</button>
+    </div>
+    </div>
+
+}
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        var ResponseType = '@ViewBag.ResponseCode';
+     
+        if (ResponseType != 0) {
+            Swal.fire({
+                text: '@ViewBag.ResponseMessage',
+                icon: "success",
+                confirmButtonText: "OK"
+            }).then((result) => {
+                if (result.isConfirmed) {
+                    window.location.href = '..LeaveRequest/LeaveRequest';
+                }
+            });
+        }
+
+    });
+
+</script>
+
+

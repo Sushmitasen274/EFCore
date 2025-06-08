@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="8.0.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IIITS.Training.DataEntities\IIITS.Training.DataEntities.csproj" />
+    <ProjectReference Include="..\IIITS.Training.RepoInterface\IIITS.Training.RepoInterface.csproj" />
+    <ProjectReference Include="..\IIITS.Training.Repositories\IIITS.Training.Repositories.csproj" />
+    <ProjectReference Include="..\IIITS.Training.ServiceInterfaces\IIITS.Training.ServiceInterfaces.csproj" />
+    <ProjectReference Include="..\IIITS.Training.Services\IIITS.Training.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="IEMS.CoreInfrastructure.DatabaseExtension">
+      <HintPath>..\dependencies\IEMS.CoreInfrastructure.DatabaseExtension.dll</HintPath>
+    </Reference>
+    <Reference Include="IEMS.CoreInfrastructure.DependencyInjection">
+      <HintPath>..\dependencies\IEMS.CoreInfrastructure.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="IEMS.CoreInfrastructure.Extensions">
+      <HintPath>..\dependencies\IEMS.CoreInfrastructure.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="IEMS.CoreInfrastructure.HttpClient">
+      <HintPath>..\dependencies\IEMS.CoreInfrastructure.HttpClient.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

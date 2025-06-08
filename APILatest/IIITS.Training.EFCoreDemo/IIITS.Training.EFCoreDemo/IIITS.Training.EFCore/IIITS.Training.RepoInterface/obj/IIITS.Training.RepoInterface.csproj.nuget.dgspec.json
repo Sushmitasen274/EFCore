@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.RepoInterface\\IIITS.Training.RepoInterface.csproj": {}
+  },
+  "projects": {
+    "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.DataEntities\\IIITS.Training.DataEntities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.DataEntities\\IIITS.Training.DataEntities.csproj",
+        "projectName": "IIITS.Training.DataEntities",
+        "projectPath": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.DataEntities\\IIITS.Training.DataEntities.csproj",
+        "packagesPath": "C:\\Users\\sushmita.sen\\.nuget\\packages\\",
+        "outputPath": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.DataEntities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sushmita.sen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNet.Mvc": {
+              "target": "Package",
+              "version": "[5.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.RepoInterface\\IIITS.Training.RepoInterface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.RepoInterface\\IIITS.Training.RepoInterface.csproj",
+        "projectName": "IIITS.Training.RepoInterface",
+        "projectPath": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.RepoInterface\\IIITS.Training.RepoInterface.csproj",
+        "packagesPath": "C:\\Users\\sushmita.sen\\.nuget\\packages\\",
+        "outputPath": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.RepoInterface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sushmita.sen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.DataEntities\\IIITS.Training.DataEntities.csproj": {
+                "projectPath": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.DataEntities\\IIITS.Training.DataEntities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

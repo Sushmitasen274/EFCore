@@ -1,0 +1,132 @@
+[
+  {
+    "ContainingType": "IIITS.Training.EFCore.API.Controllers.V1.DemoController",
+    "Method": "GetDropDownListForJv",
+    "RelativePath": "api/Demo/getdropdownforjvtransaction",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IIITS.Training.EFCore.API.Controllers.V1.DemoController",
+    "Method": "PostDemoData",
+    "RelativePath": "api/Demo/postdemodata",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "obj",
+        "Type": "IIITS.Training.DataEntities.DemoModel.DemoModelEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IIITS.Training.EFCore.API.Controllers.V1.LeaveRequestController",
+    "Method": "ApproveLeaveRequest",
+    "RelativePath": "api/LeaveRequest/ApproveLeaveRequest",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "obj",
+        "Type": "IIITS.Training.DataEntities.DemoModel.LeaveRequestModelEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IIITS.Training.EFCore.API.Controllers.V1.LeaveRequestController",
+    "Method": "GetDropDownListForEmpCode",
+    "RelativePath": "api/LeaveRequest/GetDropDownListForEmpCode",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IIITS.Training.EFCore.API.Controllers.V1.LeaveRequestController",
+    "Method": "GetDropDownListForEmpDesignation",
+    "RelativePath": "api/LeaveRequest/GetDropDownListForEmpDesignation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IIITS.Training.EFCore.API.Controllers.V1.LeaveRequestController",
+    "Method": "GetDropDownListForEmpName",
+    "RelativePath": "api/LeaveRequest/GetDropDownListForEmpName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IIITS.Training.EFCore.API.Controllers.V1.LeaveRequestController",
+    "Method": "GetLeaveRequestDetails",
+    "RelativePath": "api/LeaveRequest/GetLeaveRequestDetails",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empleaveId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IIITS.Training.EFCore.API.Controllers.V1.LeaveRequestController",
+    "Method": "GetLeaveRequestView",
+    "RelativePath": "api/LeaveRequest/GetLeaveRequestView",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IIITS.Training.EFCore.API.Controllers.V1.LeaveRequestController",
+    "Method": "LeaveRequestDelete",
+    "RelativePath": "api/LeaveRequest/LeaveRequestDelete",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "empleaveId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "IIITS.Training.EFCore.API.Controllers.V1.LeaveRequestController",
+    "Method": "SaveLeaveRequestData",
+    "RelativePath": "api/LeaveRequest/SaveLeaveRequestData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "obj",
+        "Type": "IIITS.Training.DataEntities.DemoModel.LeaveRequestMainModelEntity",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

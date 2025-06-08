@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77E3B7B8-F911-4865-8B48-03375433A1FD}|IIITS.Training.Repositories\\IIITS.Training.Repositories.csproj|e:\\efcoretranining\\apilatest\\iiits.training.efcoredemo\\iiits.training.efcoredemo\\iiits.training.efcore\\iiits.training.repositories\\demo\\leaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77E3B7B8-F911-4865-8B48-03375433A1FD}|IIITS.Training.Repositories\\IIITS.Training.Repositories.csproj|solutionrelative:iiits.training.repositories\\demo\\leaverequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E28C89-991D-4D73-AC16-18975EF383E5}|IIITS.Training.Services\\IIITS.Training.Services.csproj|e:\\efcoretranining\\apilatest\\iiits.training.efcoredemo\\iiits.training.efcoredemo\\iiits.training.efcore\\iiits.training.services\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E28C89-991D-4D73-AC16-18975EF383E5}|IIITS.Training.Services\\IIITS.Training.Services.csproj|solutionrelative:iiits.training.services\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76193FF5-F74C-495E-9C7F-FCD6FA3277E2}|IIITS.Training.ServiceInterfaces\\IIITS.Training.ServiceInterfaces.csproj|e:\\efcoretranining\\apilatest\\iiits.training.efcoredemo\\iiits.training.efcoredemo\\iiits.training.efcore\\iiits.training.serviceinterfaces\\ileaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76193FF5-F74C-495E-9C7F-FCD6FA3277E2}|IIITS.Training.ServiceInterfaces\\IIITS.Training.ServiceInterfaces.csproj|solutionrelative:iiits.training.serviceinterfaces\\ileaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5B4828-5FC7-4ADB-9067-F491B4F9521B}|IIITS.Training.EFCore.API\\IIITS.Training.EFCore.API.csproj|e:\\efcoretranining\\apilatest\\iiits.training.efcoredemo\\iiits.training.efcoredemo\\iiits.training.efcore\\iiits.training.efcore.api\\controllers\\v1\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5B4828-5FC7-4ADB-9067-F491B4F9521B}|IIITS.Training.EFCore.API\\IIITS.Training.EFCore.API.csproj|solutionrelative:iiits.training.efcore.api\\controllers\\v1\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CD3DEBA-AAFC-495C-8C92-49F287C08EFD}|IIITS.Training.RepoInterface\\IIITS.Training.RepoInterface.csproj|e:\\efcoretranining\\apilatest\\iiits.training.efcoredemo\\iiits.training.efcoredemo\\iiits.training.efcore\\iiits.training.repointerface\\ileaverequestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CD3DEBA-AAFC-495C-8C92-49F287C08EFD}|IIITS.Training.RepoInterface\\IIITS.Training.RepoInterface.csproj|solutionrelative:iiits.training.repointerface\\ileaverequestrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5B4828-5FC7-4ADB-9067-F491B4F9521B}|IIITS.Training.EFCore.API\\IIITS.Training.EFCore.API.csproj|e:\\efcoretranining\\apilatest\\iiits.training.efcoredemo\\iiits.training.efcoredemo\\iiits.training.efcore\\iiits.training.efcore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E5B4828-5FC7-4ADB-9067-F491B4F9521B}|IIITS.Training.EFCore.API\\IIITS.Training.EFCore.API.csproj|solutionrelative:iiits.training.efcore.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5B4828-5FC7-4ADB-9067-F491B4F9521B}|IIITS.Training.EFCore.API\\IIITS.Training.EFCore.API.csproj|e:\\efcoretranining\\apilatest\\iiits.training.efcoredemo\\iiits.training.efcoredemo\\iiits.training.efcore\\iiits.training.efcore.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E5B4828-5FC7-4ADB-9067-F491B4F9521B}|IIITS.Training.EFCore.API\\IIITS.Training.EFCore.API.csproj|solutionrelative:iiits.training.efcore.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.EFCore.API\\appsettings.json",
+              "RelativeDocumentMoniker": "IIITS.Training.EFCore.API\\appsettings.json",
+              "ToolTip": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.EFCore.API\\appsettings.json",
+              "RelativeToolTip": "IIITS.Training.EFCore.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T06:35:16.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeaveRequestRepository.cs",
+              "DocumentMoniker": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.Repositories\\Demo\\LeaveRequestRepository.cs",
+              "RelativeDocumentMoniker": "IIITS.Training.Repositories\\Demo\\LeaveRequestRepository.cs",
+              "ToolTip": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.Repositories\\Demo\\LeaveRequestRepository.cs",
+              "RelativeToolTip": "IIITS.Training.Repositories\\Demo\\LeaveRequestRepository.cs",
+              "ViewState": "AgIAALoAAAAAAAAAAIAwwM4AAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:33:28.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILeaveRequestRepo.cs",
+              "DocumentMoniker": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.RepoInterface\\ILeaveRequestRepo.cs",
+              "RelativeDocumentMoniker": "IIITS.Training.RepoInterface\\ILeaveRequestRepo.cs",
+              "ToolTip": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.RepoInterface\\ILeaveRequestRepo.cs",
+              "RelativeToolTip": "IIITS.Training.RepoInterface\\ILeaveRequestRepo.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAEwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:33:12.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaveRequestService.cs",
+              "DocumentMoniker": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.Services\\LeaveRequestService.cs",
+              "RelativeDocumentMoniker": "IIITS.Training.Services\\LeaveRequestService.cs",
+              "ToolTip": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.Services\\LeaveRequestService.cs",
+              "RelativeToolTip": "IIITS.Training.Services\\LeaveRequestService.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAlwFoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:29:45.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILeaveRequestService.cs",
+              "DocumentMoniker": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.ServiceInterfaces\\ILeaveRequestService.cs",
+              "RelativeDocumentMoniker": "IIITS.Training.ServiceInterfaces\\ILeaveRequestService.cs",
+              "ToolTip": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.ServiceInterfaces\\ILeaveRequestService.cs",
+              "RelativeToolTip": "IIITS.Training.ServiceInterfaces\\ILeaveRequestService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAzwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:29:14.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeaveRequestController.cs",
+              "DocumentMoniker": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.EFCore.API\\Controllers\\V1\\LeaveRequestController.cs",
+              "RelativeDocumentMoniker": "IIITS.Training.EFCore.API\\Controllers\\V1\\LeaveRequestController.cs",
+              "ToolTip": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.EFCore.API\\Controllers\\V1\\LeaveRequestController.cs",
+              "RelativeToolTip": "IIITS.Training.EFCore.API\\Controllers\\V1\\LeaveRequestController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwGQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T07:28:37.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.EFCore.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "IIITS.Training.EFCore.API\\appsettings.Development.json",
+              "ToolTip": "E:\\EFCoreTranining\\APILatest\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCoreDemo\\IIITS.Training.EFCore\\IIITS.Training.EFCore.API\\appsettings.Development.json",
+              "RelativeToolTip": "IIITS.Training.EFCore.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-11T06:35:14.406Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

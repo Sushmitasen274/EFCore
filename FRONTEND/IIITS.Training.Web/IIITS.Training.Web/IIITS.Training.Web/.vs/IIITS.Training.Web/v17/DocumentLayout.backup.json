@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|e:\\efcoretranining\\frontend\\iiits.training.web\\iiits.training.web\\iiits.training.web\\iiits.training.web\\areas\\demo\\views\\leaverequest\\leaverequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|solutionrelative:iiits.training.web\\areas\\demo\\views\\leaverequest\\leaverequest.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|e:\\efcoretranining\\frontend\\iiits.training.web\\iiits.training.web\\iiits.training.web\\iiits.training.web\\areas\\demo\\controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|solutionrelative:iiits.training.web\\areas\\demo\\controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|e:\\efcoretranining\\frontend\\iiits.training.web\\iiits.training.web\\iiits.training.web\\iiits.training.web\\areas\\demo\\services\\leaverequestservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|solutionrelative:iiits.training.web\\areas\\demo\\services\\leaverequestservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|e:\\efcoretranining\\frontend\\iiits.training.web\\iiits.training.web\\iiits.training.web\\iiits.training.web\\areas\\demo\\interfaces\\ileaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|solutionrelative:iiits.training.web\\areas\\demo\\interfaces\\ileaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|e:\\efcoretranining\\frontend\\iiits.training.web\\iiits.training.web\\iiits.training.web\\iiits.training.web\\areas\\demo\\views\\leaverequest\\leaverequestview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|solutionrelative:iiits.training.web\\areas\\demo\\views\\leaverequest\\leaverequestview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|e:\\efcoretranining\\frontend\\iiits.training.web\\iiits.training.web\\iiits.training.web\\iiits.training.web\\areas\\demo\\models\\leaverequestmainmodelentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|solutionrelative:iiits.training.web\\areas\\demo\\models\\leaverequestmainmodelentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|e:\\efcoretranining\\frontend\\iiits.training.web\\iiits.training.web\\iiits.training.web\\iiits.training.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|solutionrelative:iiits.training.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|e:\\efcoretranining\\frontend\\iiits.training.web\\iiits.training.web\\iiits.training.web\\iiits.training.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|solutionrelative:iiits.training.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|e:\\efcoretranining\\frontend\\iiits.training.web\\iiits.training.web\\iiits.training.web\\iiits.training.web\\areas\\demo\\services\\leaverequestviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|solutionrelative:iiits.training.web\\areas\\demo\\services\\leaverequestviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|e:\\efcoretranining\\frontend\\iiits.training.web\\iiits.training.web\\iiits.training.web\\iiits.training.web\\areas\\demo\\models\\leaverequestviewmodalentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|solutionrelative:iiits.training.web\\areas\\demo\\models\\leaverequestviewmodalentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|e:\\efcoretranining\\frontend\\iiits.training.web\\iiits.training.web\\iiits.training.web\\iiits.training.web\\areas\\demo\\models\\leaverequestviewresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|solutionrelative:iiits.training.web\\areas\\demo\\models\\leaverequestviewresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|e:\\efcoretranining\\frontend\\iiits.training.web\\iiits.training.web\\iiits.training.web\\iiits.training.web\\common\\httpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|solutionrelative:iiits.training.web\\common\\httpclienthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|e:\\efcoretranining\\frontend\\iiits.training.web\\iiits.training.web\\iiits.training.web\\iiits.training.web\\areas\\demo\\interfaces\\ileaverequestview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|solutionrelative:iiits.training.web\\areas\\demo\\interfaces\\ileaverequestview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|e:\\efcoretranining\\frontend\\iiits.training.web\\iiits.training.web\\iiits.training.web\\iiits.training.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|solutionrelative:iiits.training.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|e:\\efcoretranining\\frontend\\iiits.training.web\\iiits.training.web\\iiits.training.web\\iiits.training.web\\areas\\demo\\models\\leaverequestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36B2D07E-D735-4644-919C-AC7FB54DF39A}|IIITS.Training.Web\\IIITS.Training.Web.csproj|solutionrelative:iiits.training.web\\areas\\demo\\models\\leaverequestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaveRequestController.cs",
+              "DocumentMoniker": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Controllers\\LeaveRequestController.cs",
+              "RelativeDocumentMoniker": "IIITS.Training.Web\\Areas\\Demo\\Controllers\\LeaveRequestController.cs",
+              "ToolTip": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Controllers\\LeaveRequestController.cs",
+              "RelativeToolTip": "IIITS.Training.Web\\Areas\\Demo\\Controllers\\LeaveRequestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:07:27.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeaveRequest.cshtml",
+              "DocumentMoniker": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Views\\LeaveRequest\\LeaveRequest.cshtml",
+              "RelativeDocumentMoniker": "IIITS.Training.Web\\Areas\\Demo\\Views\\LeaveRequest\\LeaveRequest.cshtml",
+              "ToolTip": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Views\\LeaveRequest\\LeaveRequest.cshtml",
+              "RelativeToolTip": "IIITS.Training.Web\\Areas\\Demo\\Views\\LeaveRequest\\LeaveRequest.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T12:31:51.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LeaveRequestViewService.cs",
+              "DocumentMoniker": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Services\\LeaveRequestViewService.cs",
+              "RelativeDocumentMoniker": "IIITS.Training.Web\\Areas\\Demo\\Services\\LeaveRequestViewService.cs",
+              "ToolTip": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Services\\LeaveRequestViewService.cs",
+              "RelativeToolTip": "IIITS.Training.Web\\Areas\\Demo\\Services\\LeaveRequestViewService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:06:52.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "IIITS.Training.Web\\appsettings.json",
+              "ToolTip": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\appsettings.json",
+              "RelativeToolTip": "IIITS.Training.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T12:20:32.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Program.cs",
+              "RelativeDocumentMoniker": "IIITS.Training.Web\\Program.cs",
+              "ToolTip": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Program.cs",
+              "RelativeToolTip": "IIITS.Training.Web\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:21:35.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeaveRequestView.cshtml",
+              "DocumentMoniker": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Views\\LeaveRequest\\LeaveRequestView.cshtml",
+              "RelativeDocumentMoniker": "IIITS.Training.Web\\Areas\\Demo\\Views\\LeaveRequest\\LeaveRequestView.cshtml",
+              "ToolTip": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Views\\LeaveRequest\\LeaveRequestView.cshtml",
+              "RelativeToolTip": "IIITS.Training.Web\\Areas\\Demo\\Views\\LeaveRequest\\LeaveRequestView.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAD4v3MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T13:56:42.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaveRequestServices.cs",
+              "DocumentMoniker": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Services\\LeaveRequestServices.cs",
+              "RelativeDocumentMoniker": "IIITS.Training.Web\\Areas\\Demo\\Services\\LeaveRequestServices.cs",
+              "ToolTip": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Services\\LeaveRequestServices.cs",
+              "RelativeToolTip": "IIITS.Training.Web\\Areas\\Demo\\Services\\LeaveRequestServices.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAUwJwAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:17:15.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ILeaveRequest.cs",
+              "DocumentMoniker": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Interfaces\\ILeaveRequest.cs",
+              "RelativeDocumentMoniker": "IIITS.Training.Web\\Areas\\Demo\\Interfaces\\ILeaveRequest.cs",
+              "ToolTip": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Interfaces\\ILeaveRequest.cs",
+              "RelativeToolTip": "IIITS.Training.Web\\Areas\\Demo\\Interfaces\\ILeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:16:05.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaveRequestMainModelEntity.cs",
+              "DocumentMoniker": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Models\\LeaveRequestMainModelEntity.cs",
+              "RelativeDocumentMoniker": "IIITS.Training.Web\\Areas\\Demo\\Models\\LeaveRequestMainModelEntity.cs",
+              "ToolTip": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Models\\LeaveRequestMainModelEntity.cs",
+              "RelativeToolTip": "IIITS.Training.Web\\Areas\\Demo\\Models\\LeaveRequestMainModelEntity.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAjwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T10:15:17.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LeaveRequestViewResponse.cs",
+              "DocumentMoniker": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Models\\LeaveRequestViewResponse.cs",
+              "RelativeDocumentMoniker": "IIITS.Training.Web\\Areas\\Demo\\Models\\LeaveRequestViewResponse.cs",
+              "ToolTip": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Models\\LeaveRequestViewResponse.cs",
+              "RelativeToolTip": "IIITS.Training.Web\\Areas\\Demo\\Models\\LeaveRequestViewResponse.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:03:22.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeaveRequestViewModalEntity.cs",
+              "DocumentMoniker": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Models\\LeaveRequestViewModalEntity.cs",
+              "RelativeDocumentMoniker": "IIITS.Training.Web\\Areas\\Demo\\Models\\LeaveRequestViewModalEntity.cs",
+              "ToolTip": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Models\\LeaveRequestViewModalEntity.cs",
+              "RelativeToolTip": "IIITS.Training.Web\\Areas\\Demo\\Models\\LeaveRequestViewModalEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T10:01:27.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HttpClientHelper.cs",
+              "DocumentMoniker": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Common\\HttpClientHelper.cs",
+              "RelativeDocumentMoniker": "IIITS.Training.Web\\Common\\HttpClientHelper.cs",
+              "ToolTip": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Common\\HttpClientHelper.cs",
+              "RelativeToolTip": "IIITS.Training.Web\\Common\\HttpClientHelper.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAhwFAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:44:20.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ILeaveRequestView.cs",
+              "DocumentMoniker": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Interfaces\\ILeaveRequestView.cs",
+              "RelativeDocumentMoniker": "IIITS.Training.Web\\Areas\\Demo\\Interfaces\\ILeaveRequestView.cs",
+              "ToolTip": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Interfaces\\ILeaveRequestView.cs",
+              "RelativeToolTip": "IIITS.Training.Web\\Areas\\Demo\\Interfaces\\ILeaveRequestView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T12:00:38.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "IIITS.Training.Web\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "IIITS.Training.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T12:21:13.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LeaveRequestResponse.cs",
+              "DocumentMoniker": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Models\\LeaveRequestResponse.cs",
+              "RelativeDocumentMoniker": "IIITS.Training.Web\\Areas\\Demo\\Models\\LeaveRequestResponse.cs",
+              "ToolTip": "E:\\EFCoreTranining\\FRONTEND\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\IIITS.Training.Web\\Areas\\Demo\\Models\\LeaveRequestResponse.cs",
+              "RelativeToolTip": "IIITS.Training.Web\\Areas\\Demo\\Models\\LeaveRequestResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:16:41.875Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
